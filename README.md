@@ -1,6 +1,3 @@
-```markdown
-<div align="center">
-
 # 🌊 Vibe Coding Initializer
 ### AI-Powered Project Scaffolding for Zhipu AI GLM
 
@@ -177,4 +174,3 @@ This environment is tailored for developing with Zhipu AI's GLM models.
 ## 📄 License
 
 This project is open-source and available under the MIT License.
-```
